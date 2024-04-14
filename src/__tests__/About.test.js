@@ -8,4 +8,4 @@ test("it is exported as a default export", () => {
   } catch (e) {
     throw new Error("Make sure to export this component!");
   }
-});
+})
